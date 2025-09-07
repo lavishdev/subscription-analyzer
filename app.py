@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 st.set_page_config(page_title="My Subscription Analyzer", layout="wide", page_icon="🚀")
-st.title("💰 My Personal Subscription Dashboard")
+st.title("My Personal Subscription Dashboard")
 st.markdown("---")
 df = pd.read_csv('data/my_subscriptions.csv')
 df.index = df.index + 1
