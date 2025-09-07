@@ -1,0 +1,16 @@
+service,monthly_cost,category,start_date
+Netflix,15.99,Entertainment,12-05-2022
+Spotify Premium,9.99,Music,01-09-2021
+Amazon Prime,12.99,Entertainment,20-11-2020
+Google One (200GB),2.99,Cloud Storage,10-01-2023
+Dropbox Plus,9.99,Cloud Storage,15-06-2022
+Adobe Creative Cloud,54.99,Productivity,18-03-2021
+Notion Plus,8,Productivity,02-04-2023
+GitHub Copilot,10,Productivity,25-07-2023
+Canva Pro,12.99,Productivity,05-09-2022
+Microsoft 365,6.99,Productivity,01-12-2021
+Apple Music,10.99,Music,22-08-2021
+HBO Max,14.99,Entertainment,12-02-2022
+Coursera Plus,59,Education,30-05-2023
+Crunchyroll Premium,7.99,Entertainment,18-11-2022
+Zoom Pro,14.99,Productivity,10-07-2021
